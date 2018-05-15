@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="PointOfSales/src"/>
+	<classpathentry kind="lib" path="PointOfSales/jcalendar-1.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/glizz/Downloads/jar files/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/glizz/Downloads/jar files/rs2xml.jar"/>
+	<classpathentry kind="output" path="PointOfSales/bin"/>
+</classpath>
